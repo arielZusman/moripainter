@@ -1,0 +1,13 @@
+body {
+  font-family: monospace;  
+}
+
+canvas {
+  position: relative;
+}
+
+#container{
+  width: 200px;
+  height: 200px;
+  border: solid 5px #000;  
+}
